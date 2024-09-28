@@ -1,1 +1,109 @@
-"# online-reservation" 
+
+#  Online Reservation project
+
+
+
+
+## Ui framework
+
+```bash
+vuetify
+
+tailwind css
+```
+
+## Library
+
+```bash
+axios
+
+vue-router
+
+```
+
+## Database
+
+```bash
+mongodb
+```
+
+## State Managment
+
+```bash
+pinia
+```
+
+## Authentication
+
+```bash
+jwt
+```
+
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# npm
+npm install
+
+# pnpm
+pnpm install
+
+# yarn
+yarn install
+
+# bun
+bun install
+```
+
+## Development Server
+
+```bash
+# npm
+npm run dev
+
+# pnpm
+pnpm run dev
+
+# yarn
+yarn dev
+
+# bun
+bun run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+# npm
+npm run build
+
+# pnpm
+pnpm run build
+
+# yarn
+yarn build
+
+# bun
+bun run build
+```
+
+Locally preview production build:
+
+```bash
+# npm
+npm run preview
+
+# pnpm
+pnpm run preview
+
+# yarn
+yarn preview
+
+# bun
+bun run preview
+```
+
